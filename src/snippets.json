@@ -70,5 +70,71 @@
             "Fore.RESET"
         ],
         "description": "Resets the foreground color"
+    },
+
+
+    
+    "Background Black": {
+        "prefix": "Back",
+        "body": [
+            "Back.BLACK"
+        ],
+        "description": "Colors the background black"
+    },
+    "Background Red": {
+        "prefix": "Back",
+        "body": [
+            "Back.RED"
+        ],
+        "description": "Colors the background red"
+    },
+    "Background Green": {
+        "prefix": "Back",
+        "body": [
+            "Back.GREEN"
+        ],
+        "description": "Colors the background green"
+    },
+    "Background Yellow": {
+        "prefix": "Back",
+        "body": [
+            "Back.YELLOW"
+        ],
+        "description": "Colors the background yellow"
+    },
+    "Background Blue": {
+        "prefix": "Back",
+        "body": [
+            "Back.BLUE"
+        ],
+        "description": "Colors the background blue"
+    },
+    "Background Magenta": {
+        "prefix": "Back",
+        "body": [
+            "Back.MAGENTA"
+        ],
+        "description": "Colors the background magenta"
+    },
+    "Background Cyan": {
+        "prefix": "Back",
+        "body": [
+            "Back.CYAN"
+        ],
+        "description": "Colors the background cyan"
+    },
+    "Background White": {
+        "prefix": "Back",
+        "body": [
+            "Back.WHITE"
+        ],
+        "description": "Colors the background white"
+    },
+    "Background Reset": {
+        "prefix": "Back",
+        "body": [
+            "Back.RESET"
+        ],
+        "description": "Resets the background color"
     }
 }
