@@ -136,5 +136,36 @@
             "Back.RESET"
         ],
         "description": "Resets the background color"
+    },
+
+
+
+    "Style Dim": {
+        "prefix": "Style",
+        "body": [
+            "Style.DIM"
+        ],
+        "description": "Makes the overall brightness dimmer"
+    },
+    "Style Normal": {
+        "prefix": "Style",
+        "body": [
+            "Style.NORMAL"
+        ],
+        "description": "Makes the overall brightness normal"
+    },
+    "Style Bright": {
+        "prefix": "Style",
+        "body": [
+            "Style.BRIGHT"
+        ],
+        "description": "Makes the overall brightness brighter"
+    },
+    "Style Reset All": {
+        "prefix": "Style",
+        "body": [
+            "Style.RESET_ALL"
+        ],
+        "description": "Resets the brightness, foreground, and background."
     }
 }
