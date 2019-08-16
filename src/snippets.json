@@ -1,0 +1,11 @@
+{
+    "Import Colorama": {
+        "prefix": "color",
+        "body": [
+            "from colorama import init",
+            "init()",
+            "$1"
+        ],
+        "description": "Imports init from Colorama"
+    }
+}
