@@ -7,5 +7,68 @@
             "$1"
         ],
         "description": "Imports init from Colorama"
+    },
+    "Foreground Black": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.BLACK"
+        ],
+        "description": "Colors the foreground black"
+    },
+    "Foreground Red": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.RED"
+        ],
+        "description": "Colors the foreground red"
+    },
+    "Foreground Green": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.GREEN"
+        ],
+        "description": "Colors the foreground green"
+    },
+    "Foreground Yellow": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.YELLOW"
+        ],
+        "description": "Colors the foreground yellow"
+    },
+    "Foreground Blue": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.BLUE"
+        ],
+        "description": "Colors the foreground blue"
+    },
+    "Foreground Magenta": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.MAGENTA"
+        ],
+        "description": "Colors the foreground magenta"
+    },
+    "Foreground Cyan": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.CYAN"
+        ],
+        "description": "Colors the foreground cyan"
+    },
+    "Foreground White": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.WHITE"
+        ],
+        "description": "Colors the foreground white"
+    },
+    "Foreground Reset": {
+        "prefix": "Fore",
+        "body": [
+            "Fore.RESET"
+        ],
+        "description": "Resets the foreground color"
     }
 }
