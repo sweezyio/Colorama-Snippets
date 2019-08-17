@@ -1,0 +1,21 @@
+{
+    "name": "colorama-snippets",
+    "displayName": "Colorama-Snippets",
+    "description": "A simple extensions that provides snippets for Colorama.",
+    "version": "0.0.1",
+    "publisher": "KennethSweezy",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
