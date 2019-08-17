@@ -19,6 +19,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: Package and Publish Extension
       run: |
-        npm install vsce
+        npm install -g vsce
         vsce package
         vsce publish
