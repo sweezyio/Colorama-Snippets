@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "KennethSweezy",
   	"repository": "https://github.com/KennethSweezy/Colorama-Snippets",
-    "icon": "img/color_wheel.png"
+    "icon": "img/color_wheel.png",
   	"engines": {
         "vscode": "^1.37.0"
     },
