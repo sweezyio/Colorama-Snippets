@@ -4,11 +4,15 @@
     "description": "A simple extensions that provides snippets for Colorama.",
     "version": "0.0.1",
     "publisher": "KennethSweezy",
+  	"repository": "https://github.com/KennethSweezy/Colorama-Snippets",
     "engines": {
         "vscode": "^1.37.0"
     },
     "categories": [
         "Snippets"
+    ],
+  	"keywords": [
+      	"python", "colorama"
     ],
     "contributes": {
         "snippets": [
