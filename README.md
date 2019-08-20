@@ -1,5 +1,5 @@
 # Welcome to Colorama Snippets 👋
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![Prerequisite](https://img.shields.io/badge/vscode-%5E1.37.0-blue.svg)
 ![GitHub Stars](https://img.shields.io/badge/github/stars/KennethSweezy/Colorama-Snippets?style=flat)
 ![GitHub Issues Open](https://img.shields.io/badge/github/issues-raw/KennethSweezy/Colorama-Snippets?style=flat)
