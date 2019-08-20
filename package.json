@@ -2,7 +2,7 @@
     "name": "colorama-snippets",
     "displayName": "Colorama-Snippets",
     "description": "A simple extensions that provides snippets for Colorama.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "KennethSweezy",
   	"repository": "https://github.com/KennethSweezy/Colorama-Snippets",
     "icon": "img/color_wheel.png",
