@@ -13,7 +13,7 @@
 ## Usage
 
 ```sh
-Download from Visual Studio Code Extension Marketplace
+[Download from Visual Studio Code Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=KennethSweezy.colorama-snippets)
 ```
 
 ## Author
