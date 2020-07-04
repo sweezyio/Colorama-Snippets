@@ -11,10 +11,7 @@
 - vscode ^1.37.0
 
 ## Usage
-
-```sh
 [Download from Visual Studio Code Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=KennethSweezy.colorama-snippets)
-```
 
 ## Author
 
